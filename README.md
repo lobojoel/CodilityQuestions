@@ -4,8 +4,10 @@ Coding
 Few interesting questions in one Project
 
 This Project has some interesting questions for coding generally will be helpful for interviews.
-The Questions are in the Different Packages. \n
+The Questions are in the Different Packages.    
+
 Some of them are
+
 1. Find the Count Distinct Absoulte Value in a given Array.
 2. Find the Equilibrium in the given array.
 3. Find the Dominator number in the given array. (Dominator is a number existing in the array which occurs more than 50%)
