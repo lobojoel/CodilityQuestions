@@ -4,7 +4,7 @@ Coding
 Few interesting questions in one Project
 
 This Project has some interesting questions for coding generally will be helpful for interviews.
-The Questions are in the Different Packages.
+The Questions are in the Different Packages. \\n
 Some of them are
 1. Find the Count Distinct Absoulte Value in a given Array.
 2. Find the Equilibrium in the given array.
