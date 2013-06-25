@@ -4,7 +4,7 @@ Coding
 Few interesting questions in one Project
 
 This Project has some interesting questions for coding generally will be helpful for interviews.
-The Questions are in the Different Packages.    
+The Solutions are in different Packages.    
 
 Some of them are
 
